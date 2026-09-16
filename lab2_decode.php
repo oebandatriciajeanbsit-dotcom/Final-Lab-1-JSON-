@@ -1,5 +1,5 @@
 <?php
-$jsonString = '{"name":"Famor, Princess Ann L.","age":20,"email":"princessannfamo621@gmail.com"}';
+$jsonString = '{"name":"Oebanda, Tricia jean","age":20,"email":"oebandatriciajean@gmail.com"}';
 
 $phpObject = json_decode($jsonString);
 
