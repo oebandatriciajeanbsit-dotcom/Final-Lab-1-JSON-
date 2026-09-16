@@ -1,6 +1,6 @@
 <?php
 $student = [
-    "name" => "Famor, Princess Ann L.",
+    "name" => "Oebanda, Tricia jean",
     "age" => 20,
     "course" => "IT"
 ];
